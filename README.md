@@ -1,7 +1,5 @@
-# Magic 8 Ball 🎱
+# Magic 8 Ball
 
-## What you will create
+A magical 8-ball app that will give the answers to all the tricky questions in life. The ball will change at the press of a button. 
 
-We’re going to make a magical 8 ball app, it will give you the answers to all the tricky questions in life. You can make the ball change at the press of a button. 
-
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/8-ball-flutter-gif.gif)
+![8-ball-flutter-gif](https://user-images.githubusercontent.com/50670255/69490056-dc553b80-0e4f-11ea-9c22-53a35063d4b5.gif)
