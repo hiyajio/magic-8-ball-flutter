@@ -1,4 +1,4 @@
-# Magic 8 Ball - Flutter
+# Magic 8 Ball :8ball: Flutter
 
 A magical 8-ball app that will give the answers to all the tricky questions in life. The ball will change at the press of a button. 
 
